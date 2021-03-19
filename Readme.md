@@ -143,3 +143,11 @@ ADDITIONAL GOAL 2tasks
 Are the scores getting incremented as per the divisions?
 10 pts
 Write code to increment the score.
+
+
+
+
+
+
+Now add score text in the game and create particles on mouse click.
+PicPic

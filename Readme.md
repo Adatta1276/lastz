@@ -149,5 +149,4 @@ Write code to increment the score.
 
 
 
-Now add score text in the game and create particles on mouse click.
-PicPic
+
